@@ -149,7 +149,7 @@ section {
   color: var(--main-hover-focus, #404bbf);
 }
 
-.after-link::after {
+.current::after {
   content: "";
   position: absolute;
   left: 0;
