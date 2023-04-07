@@ -341,7 +341,7 @@ section {
   align-items: center;
   justify-content: center;
   color: var(--customer-icon-color, #8e8f99);
-  transition: background-color 250ms var(--timing-function),
+  transition: border-color 250ms var(--timing-function),
     color 250ms var(--timing-function);
 }
 .customers-icon {
